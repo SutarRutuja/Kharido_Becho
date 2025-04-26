@@ -82,7 +82,7 @@ lib/<br>
 
 
 <br><br><br>
-📷 App Flow / Working
+📷 App Flow / Working<br>
 🏠 Homepage: Featured products, categorized view.
 
 🔐 User Authentication: Register/Login/Forgot Password handled via Firebase Auth.
@@ -108,6 +108,6 @@ Create a Pull Request (PR)
 
 <br><br><br>
 
-📜 License
+📜 License<br>
 This project is licensed under the MIT License.
 Feel free to use, modify, and enhance it!
