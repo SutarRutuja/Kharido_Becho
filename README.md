@@ -65,12 +65,12 @@ Copy
 Edit
 lib/
 │
-├── screens/          # All UI screens (Home, Login, Register, Product Details, Cart)
-├── services/         # Firebase services (Authentication, Firestore, Storage)
-├── models/           # Data models (User, Product, Cart Item)
-├── widgets/          # Reusable widgets (Product Card, Custom Button)
-├── providers/        # State management (Provider/ChangeNotifier)
-└── main.dart         # App entry point
+├── screens/          # All UI screens (Home, Login, Register, Product Details, Cart)<br>
+├── services/         # Firebase services (Authentication, Firestore, Storage)<br>
+├── models/           # Data models (User, Product, Cart Item)<br>
+├── widgets/          # Reusable widgets (Product Card, Custom Button)<br>
+├── providers/        # State management (Provider/ChangeNotifier)<br>
+└── main.dart         # App entry point<br>
 
 📷 App Flow / Working
 🏠 Homepage: Featured products, categorized view.
