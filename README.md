@@ -1,9 +1,7 @@
 📦 Kharido Becho – College Marketplace App
 Kharido Becho is a mobile application designed for college students and faculty to buy and sell new and used products within the campus community.
 Built using Flutter and powered by Firebase, the app ensures secure transactions, easy product listings, and seamless user experiences.
-<img>![Screenshot 2025-03-26 073336](https://github.com/user-attachments/assets/44888cdf-a4f2-4663-8723-841a87c6fa91)
 
-<img/>
 
 ✨ Key Features
 📋 Product listing, browsing by categories
