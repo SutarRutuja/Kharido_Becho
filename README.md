@@ -1,9 +1,9 @@
 📦 Kharido Becho – College Marketplace App
 Kharido Becho is a mobile application designed for college students and faculty to buy and sell new and used products within the campus community.
 Built using Flutter and powered by Firebase, the app ensures secure transactions, easy product listings, and seamless user experiences.
-
-
-
+<br>
+<br>
+<br>
 ✨ Key Features
 📋 Product listing, browsing by categories
 
@@ -14,14 +14,14 @@ Built using Flutter and powered by Firebase, the app ensures secure transactions
 🛠️ Admin panel to manage products, users, categories
 
 
-
+<br><br><br>
 
 🛠️ Tech Stack
 Frontend: Flutter (Dart)
 
 Backend/Database: Firebase (Authentication, Firestore, Storage)
 
-
+<br><br><br>
 
 
 🚀 Getting Started
@@ -54,7 +54,7 @@ Create a Storage bucket for uploading product images.
 Download the google-services.json (for Android) and place it in /android/app/ folder.
 
 (Optional) Download GoogleService-Info.plist (for iOS) and configure accordingly if you are targeting iOS.
-
+<br><br><br>
 
 
 4. Install Dependencies
@@ -68,7 +68,7 @@ Copy
 Edit
 flutter run
 Or use your IDE's "Run" button to launch on an emulator or a connected device.
-
+<br><br><br>
 📋 Project Structure
 <br>
 lib/<br>
@@ -81,7 +81,7 @@ lib/<br>
 └── main.dart         # App entry point<br>
 
 
-
+<br><br><br>
 📷 App Flow / Working
 🏠 Homepage: Featured products, categorized view.
 
@@ -92,7 +92,7 @@ lib/<br>
 📦 Cart and Checkout: Manage cart and add to cart and chat with the seller for further information.
 
 
-
+<br><br><br>
 🌱 Contribution Guidelines
 We love contributions!
 
@@ -106,7 +106,7 @@ Push changes (git push origin feature-branch)
 
 Create a Pull Request (PR)
 
-
+<br><br><br>
 
 📜 License
 This project is licensed under the MIT License.
