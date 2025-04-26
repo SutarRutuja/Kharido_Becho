@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "965170259379",
+    "project_id": "pblkb-bf750",
+    "storage_bucket": "pblkb-bf750.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965170259379:android:72374d1411cc5d73d4d7c6",
+        "android_client_info": {
+          "package_name": "com.example.pbl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFYfGej-iSWn1EIbNKHPVgSSn2PxntbYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
