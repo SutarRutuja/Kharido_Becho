@@ -3,6 +3,7 @@ Kharido Becho is a mobile application designed for college students and faculty 
 Built using Flutter and powered by Firebase, the app ensures secure transactions, easy product listings, and seamless user experiences.
 
 
+
 ✨ Key Features
 📋 Product listing, browsing by categories
 
@@ -12,10 +13,15 @@ Built using Flutter and powered by Firebase, the app ensures secure transactions
 
 🛠️ Admin panel to manage products, users, categories
 
+
+
+
 🛠️ Tech Stack
 Frontend: Flutter (Dart)
 
 Backend/Database: Firebase (Authentication, Firestore, Storage)
+
+
 
 
 🚀 Getting Started
@@ -27,6 +33,8 @@ Install Flutter SDK
 Install Android Studio or VS Code with Flutter & Dart extensions
 
 Setup a Firebase Project
+
+
 
 2. Clone the Repository
 bash
@@ -47,6 +55,8 @@ Download the google-services.json (for Android) and place it in /android/app/ fo
 
 (Optional) Download GoogleService-Info.plist (for iOS) and configure accordingly if you are targeting iOS.
 
+
+
 4. Install Dependencies
 bash
 Copy
@@ -60,10 +70,8 @@ flutter run
 Or use your IDE's "Run" button to launch on an emulator or a connected device.
 
 📋 Project Structure
-mathematica
-Copy
-Edit
-lib/
+<br>
+lib/<br>
 │
 ├── screens/          # All UI screens (Home, Login, Register, Product Details, Cart)<br>
 ├── services/         # Firebase services (Authentication, Firestore, Storage)<br>
@@ -71,6 +79,8 @@ lib/
 ├── widgets/          # Reusable widgets (Product Card, Custom Button)<br>
 ├── providers/        # State management (Provider/ChangeNotifier)<br>
 └── main.dart         # App entry point<br>
+
+
 
 📷 App Flow / Working
 🏠 Homepage: Featured products, categorized view.
@@ -80,6 +90,8 @@ lib/
 🛒 Product Browsing & Details: Browse items, view details, add to cart.
 
 📦 Cart and Checkout: Manage cart and add to cart and chat with the seller for further information.
+
+
 
 🌱 Contribution Guidelines
 We love contributions!
@@ -93,6 +105,8 @@ Make changes and commit (git commit -m "Added feature")
 Push changes (git push origin feature-branch)
 
 Create a Pull Request (PR)
+
+
 
 📜 License
 This project is licensed under the MIT License.
